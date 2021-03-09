@@ -1,0 +1,37 @@
+[
+    {
+        "type": "body",
+        "description": "Estique seus braços com a palma da mão virada para frente.",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para direita e para a esquerda.",
+        "amount": 70
+    },
+    {
+        "type": "body",
+        "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alagondo a parte de trás do pescoço.",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Levante-se e leve sua mão até a ponta do seus pés com as pernas esticadas.",
+        "amount": 70
+    },
+    {
+        "type": "eye",
+        "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutosm depois abra normalmente.",
+        "amount": 90
+    },
+    {
+        "type": "eye",
+        "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s.",
+        "amount": 140
+    }
+]
